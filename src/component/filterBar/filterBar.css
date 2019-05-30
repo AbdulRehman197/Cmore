@@ -1,0 +1,15 @@
+.match_container {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.falgs{
+    display: flex;
+    order: 1
+}
+.teams_name{
+    display: flex;
+    
+}
